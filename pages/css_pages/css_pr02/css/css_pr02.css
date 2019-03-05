@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.wrapper {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;   
+}
+
+.wrapper:hover {
+    background-color: aquamarine; 
+}
+
+img {
+    transform: rotateZ(60deg);
+}
+
